@@ -1,0 +1,1 @@
+INSERT INTO SONG (Title, Artist) VALUES ('We bare bears', 'Nanana');
